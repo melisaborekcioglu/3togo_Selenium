@@ -24,8 +24,6 @@ def browserstart():
         print('restoran linkleri alınamadı')
 
 
-
-
 def getDetails():
     try:
         for url in resturls:
